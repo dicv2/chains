@@ -1,0 +1,23 @@
+{"name": "DIC Network",
+  "chain": "DICChain",
+  "rpc": ["https://DIC-rpc.com"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "DIC",
+    "symbol": "DIC",
+    "decimals": 18
+  },
+  "infoURL": "https://bescan.org",
+  "shortName": "VC",
+  "chainId": 207,
+  "networkId": 207,
+  "icon": "vitainu",
+  "explorers": [
+    {
+      "name": "dicScan",
+      "url": "https://diccan.com",
+      "icon": "dicscan",
+      "standard": "none"
+    }
+  ]
+}
